@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "vtag"
+  site-url: "https://franckalbinet.github.io/vtag"
+  description: "Utilities to generate video (mp4, ...) bookmark from text, .csv files"
+  repo-branch: main
+  repo-url: "https://github.com/franckalbinet/vtag"
