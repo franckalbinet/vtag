@@ -1,0 +1,29 @@
+time,name,tags
+00:02:30,Recap. mineralogy,Minerals
+00:07:18,Oxyhydroxides,Minerals
+00:09:30,Oxide surface charges and ZPC,Minerals
+00:11:15,Gibbsite,Minerals
+00:15:06,Goethite,Minerals
+00:18:21,Aluminium oxide surface with phosphate anion example,Minerals
+00:22:25,Phosphate bidentate on FeOOH,Minerals | Carbon sequestration
+00:24:00,Ability of Oxyhydroxides to sequester OC,Minerals | Carbon sequestration
+00:25:30,The Iron sink,Minerals | Carbon sequestration
+00:27:10,Modeling does not account for Oxyhydroxides/OC interaction,Minerals | Carbon sequestration
+00:28:50,Primary factor of OC presence is climate but mineralogy counts,Minerals | Carbon sequestration
+00:30:25,Manganese oxides,Minerals | Solublity
+00:32:10,Weathering=f(precipitation),Minerals | Weathering
+00:34:48,Soil Organic Matter types and concentrations,SOM
+00:40:10,Humic Fulvic acids and Humin,SOM
+00:45:20,Where do we find OC?,SOM
+00:51:35,Organic Carbon map in Europe,SOM
+00:53:00,Mechanisms of chemical bounds between function groups and OM,SOM
+00:54:31,Methods of SOC analyis,SOM
+01:10:00,One site one ion model and no electrostatic interactions,Surface complexation | Adsorption
+01:14:04,Electrostatic models and example of the 2-pK double layer model,Surface complexation | Adsorption
+01:19:47,Two pK double layer model,Surface complexation | Adsorption
+01:25:00,Two site Double Layer Model as done with VMinteq,Surface complexation | Adsorption | VMinteq
+01:27:12,Example 1: Effect of Ionic strength and pH on surface charges,Surface complexation | Adsorption
+01:29:58,Example 2: Phosphate adsorption on Fe(OH)3(HFO)=f(pH and IS),Surface complexation | Adsorption | VMinteq
+01:37:30,Recap. of Sorption reactions,Adsorption
+01:39:36,Multi-site (discrete sites) and multiple ions,Surface complexation | Adsorption | Model
+01:42:35,Continuous distribution of affinity and multiple ions,Surface complexation | Adsorption | Model

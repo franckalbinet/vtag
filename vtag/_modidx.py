@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://franckalbinet.github.io',
                 'git_url': 'https://github.com/franckalbinet/vtag',
                 'lib_path': 'vtag'},
-  'syms': {'vtag.core': {'vtag.core.foo': ('core.html#foo', 'vtag/core.py')}}}
+  'syms': { 'vtag.core': { 'vtag.core.csv_to_m3u': ('core.html#csv_to_m3u', 'vtag/core.py'),
+                           'vtag.core.get_all_tags': ('core.html#get_all_tags', 'vtag/core.py'),
+                           'vtag.core.timestamp_to_seconds': ('core.html#timestamp_to_seconds', 'vtag/core.py')}}}
